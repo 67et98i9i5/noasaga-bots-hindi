@@ -92,9 +92,9 @@ async function sendSeason(userId, ctx) {
 
     const buttons = Markup.inlineKeyboard([
       [
-        Markup.button.url("1080p", `https://t.me/noasagaanime_bot?start=${animeCode}_s${season}_${ep}_1080p`),
-        Markup.button.url("720p", `https://t.me/noasagaanime_bot?start=${animeCode}_s${season}_${ep}_720p`),
-        Markup.button.url("360p", `https://t.me/noasagaanime_bot?start=${animeCode}_s${season}_${ep}_360p`)
+        Markup.button.url("1080p", `https://t.me/noasagaanime_hindi_bot?start=${animeCode}_s${season}_${ep}_1080p`),
+        Markup.button.url("360p", `https://t.me/noasagaanime_hindi_bot?start=${animeCode}_s${season}_${ep}_360p`),
+        Markup.button.url("720p", `https://t.me/noasagaanime_hindi_bot?start=${animeCode}_s${season}_${ep}_720p`),
       ]
     ]);
 

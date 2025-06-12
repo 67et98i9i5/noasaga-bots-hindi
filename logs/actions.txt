@@ -3896,3 +3896,181 @@
 [2025-04-17T09:06:14.139Z] (7020664469) Noasaga: ✅ Added Enen no Shouboutai: San no Shou to user 7020664469
 [2025-04-17T09:06:14.627Z] (7020664469) Noasaga: ✅ Sent Episode 23
 [2025-04-17T15:05:16.745Z] (7020664469) Noasaga: 🚀 Bot started
+[2025-04-18T16:47:30.565Z] (7020664469) Noasaga: 🚀 Bot started
+[2025-04-18T16:47:36.419Z] (7020664469) Noasaga: 🎬 Selected Anime: The Apothecary Diaries
+[2025-04-18T16:47:36.420Z] (7020664469) Noasaga: ✅ Found anime_id: 67898
+[2025-04-18T16:47:36.421Z] (7020664469) Noasaga: ✅ Found MAL ID: 54492
+[2025-04-18T16:47:37.113Z] (7020664469) Noasaga: 🔍 Found existingAnime: ✅ Yes
+[2025-04-18T16:47:37.113Z] (7020664469) Noasaga: ⏳ Anime already in watchlist: Kusuriya no Hitorigoto (MAL ID: 54492) ❌ Skipping DB insert.
+[2025-04-18T16:47:37.112Z] (7020664469) Noasaga: 📂 Checking watchedAnime list: [
+  {
+    "title": "Sousou no Frieren",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "_id": "67efb839a828fc999b2632ba",
+    "watchedAt": "2025-04-04T10:45:13.720Z"
+  },
+  {
+    "mal_id": 54492,
+    "title": "Kusuriya no Hitorigoto",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "_id": "67f01a4f78816cc5b55bd587",
+    "watchedAt": "2025-04-04T17:43:43.205Z"
+  },
+  {
+    "mal_id": 53393,
+    "title": "Tengoku Daimakyou",
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "_id": "67f291eeacdb13155de79474",
+    "watchedAt": "2025-04-06T14:38:38.401Z"
+  },
+  {
+    "mal_id": 1726,
+    "title": "Devil May Cry",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "_id": "67f7aad7aee6500453b9d3e0",
+    "watchedAt": "2025-04-10T11:26:15.820Z"
+  },
+  {
+    "mal_id": 164,
+    "title": "Mononoke Hime",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Award Winning",
+      "Fantasy"
+    ],
+    "_id": "67f8049ed8a69e08a57fbf62",
+    "watchedAt": "2025-04-10T17:49:18.827Z"
+  },
+  {
+    "title": "Kill la Kill",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy",
+      "Ecchi"
+    ],
+    "_id": "67f91cc03b964fab96618e33",
+    "watchedAt": "2025-04-11T13:44:32.084Z"
+  },
+  {
+    "title": "Kaijuu 8-gou",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "_id": "67fdf96c01bdcd0d194fa9a2",
+    "watchedAt": "2025-04-15T06:15:08.695Z"
+  },
+  {
+    "mal_id": 51818,
+    "title": "Enen no Shouboutai: San no Shou",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "_id": "6800c486574828bcdfd4e112",
+    "watchedAt": "2025-04-17T09:06:14.087Z"
+  }
+]
+[2025-04-18T16:47:37.033Z] (7020664469) Noasaga: 📡 Jikan API → Title: Kusuriya no Hitorigoto
+[2025-04-18T16:47:38.489Z] (7020664469) Noasaga: Selected Season: Season 1 from The Apothecary Diaries
+[2025-04-18T16:47:42.334Z] (7020664469) Noasaga: Confirmed Multi Episodes: Episode 21, Episode 19, Episode 18
+[2025-04-18T16:47:44.444Z] (7020664469) Noasaga: Selected Multi Quality: 1080p
+[2025-04-18T16:55:11.562Z] (7020664469) Noasaga: 🚀 Bot started
+[2025-04-18T16:55:11.568Z] (7020664469) Noasaga: 📥 Payload received: 67898_s1_1_1080p
+[2025-04-18T16:55:12.271Z] (7020664469) Noasaga: ⏳ Anime already in watchlist: Kusuriya no Hitorigoto
+[2025-04-18T16:55:12.724Z] (7020664469) Noasaga: ✅ Sent Episode 1
+[2025-04-18T17:05:12.344Z] (7020664469) Noasaga: 🚀 Bot started
+[2025-04-18T17:05:12.345Z] (7020664469) Noasaga: 📥 Payload received: 67898_s1_1080p
+[2025-04-18T17:05:12.982Z] (7020664469) Noasaga: ⏳ Anime already in watchlist: Kusuriya no Hitorigoto
+[2025-04-18T17:05:13.081Z] (7020664469) Noasaga: 📦 Sending 24 episodes in 1080p...
+[2025-04-18T17:05:13.455Z] (7020664469) Noasaga: ✅ Sent Episode 1
+[2025-04-18T17:05:13.834Z] (7020664469) Noasaga: ✅ Sent Episode 2
+[2025-04-18T17:05:14.197Z] (7020664469) Noasaga: ✅ Sent Episode 3
+[2025-04-18T17:05:14.573Z] (7020664469) Noasaga: ✅ Sent Episode 4
+[2025-04-18T17:05:14.937Z] (7020664469) Noasaga: ✅ Sent Episode 5
+[2025-04-18T17:05:15.299Z] (7020664469) Noasaga: ✅ Sent Episode 6
+[2025-04-18T17:05:15.730Z] (7020664469) Noasaga: ✅ Sent Episode 7
+[2025-04-18T17:05:16.106Z] (7020664469) Noasaga: ✅ Sent Episode 8
+[2025-04-18T17:05:16.468Z] (7020664469) Noasaga: ✅ Sent Episode 9
+[2025-04-18T17:05:16.823Z] (7020664469) Noasaga: ✅ Sent Episode 10
+[2025-04-18T17:05:17.197Z] (7020664469) Noasaga: ✅ Sent Episode 11
+[2025-04-18T17:05:17.585Z] (7020664469) Noasaga: ✅ Sent Episode 12
+[2025-04-18T17:05:17.953Z] (7020664469) Noasaga: ✅ Sent Episode 13
+[2025-04-18T17:05:18.346Z] (7020664469) Noasaga: ✅ Sent Episode 14
+[2025-04-18T17:05:18.781Z] (7020664469) Noasaga: ✅ Sent Episode 15
+[2025-04-18T17:05:19.192Z] (7020664469) Noasaga: ✅ Sent Episode 16
+[2025-04-18T17:05:19.588Z] (7020664469) Noasaga: ✅ Sent Episode 17
+[2025-04-18T17:05:19.955Z] (7020664469) Noasaga: ✅ Sent Episode 18
+[2025-04-18T17:05:20.320Z] (7020664469) Noasaga: ✅ Sent Episode 19
+[2025-04-18T17:05:20.707Z] (7020664469) Noasaga: ✅ Sent Episode 20
+[2025-04-18T17:05:21.104Z] (7020664469) Noasaga: ✅ Sent Episode 21
+[2025-04-18T17:05:21.482Z] (7020664469) Noasaga: ✅ Sent Episode 22
+[2025-04-18T17:05:21.846Z] (7020664469) Noasaga: ✅ Sent Episode 23
+[2025-04-18T17:05:22.235Z] (7020664469) Noasaga: ✅ Sent Episode 24
+[2025-04-18T17:05:22.236Z] (7020664469) Noasaga: ✅ All Episode sent Successfully!
+[2025-04-18T17:08:21.637Z] (1132620544) Hayat: 🚀 Bot started
+[2025-04-18T17:08:26.382Z] (1132620544) Hayat: 🎬 Selected Anime: The Apothecary Diaries
+[2025-04-18T17:08:26.383Z] (1132620544) Hayat: ✅ Found MAL ID: 54492
+[2025-04-18T17:08:26.382Z] (1132620544) Hayat: ✅ Found anime_id: 67898
+[2025-04-18T17:08:26.992Z] (1132620544) Hayat: 📡 Jikan API → Title: Kusuriya no Hitorigoto
+[2025-04-18T17:08:27.042Z] (1132620544) Hayat: 📂 Checking watchedAnime list: [
+  {
+    "mal_id": 54492,
+    "title": "Kusuriya no Hitorigoto",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "_id": "67f17504a1804ddab7a92f36",
+    "watchedAt": "2025-04-05T18:23:00.590Z"
+  }
+]
+[2025-04-18T17:08:27.044Z] (1132620544) Hayat: ⏳ Anime already in watchlist: Kusuriya no Hitorigoto (MAL ID: 54492) ❌ Skipping DB insert.
+[2025-04-18T17:08:27.043Z] (1132620544) Hayat: 🔍 Found existingAnime: ✅ Yes
+[2025-04-18T17:08:28.772Z] (1132620544) Hayat: Selected Season: Season 1 from The Apothecary Diaries
+[2025-04-18T17:58:09.456Z] (1999145703) Ada: 🚀 Bot started
+[2025-04-18T17:58:09.472Z] (1999145703) Ada: 📥 Payload received: 67898_s1_360p
+[2025-04-18T17:58:10.422Z] (1999145703) Ada: ⏳ Anime already in watchlist: Kusuriya no Hitorigoto
+[2025-04-18T17:58:10.564Z] (1999145703) Ada: 📦 Sending 23 episodes in 360p...
+[2025-04-18T17:58:10.935Z] (1999145703) Ada: ✅ Sent Episode 1
+[2025-04-18T17:58:11.311Z] (1999145703) Ada: ✅ Sent Episode 2
+[2025-04-18T17:58:11.683Z] (1999145703) Ada: ✅ Sent Episode 3
+[2025-04-18T17:58:12.055Z] (1999145703) Ada: ✅ Sent Episode 4
+[2025-04-18T17:58:12.426Z] (1999145703) Ada: ✅ Sent Episode 5
+[2025-04-18T17:58:12.800Z] (1999145703) Ada: ✅ Sent Episode 6
+[2025-04-18T17:58:13.195Z] (1999145703) Ada: ✅ Sent Episode 7
+[2025-04-18T17:58:13.592Z] (1999145703) Ada: ✅ Sent Episode 8
+[2025-04-18T17:58:13.964Z] (1999145703) Ada: ✅ Sent Episode 9
+[2025-04-18T17:58:14.335Z] (1999145703) Ada: ✅ Sent Episode 10
+[2025-04-18T17:58:14.703Z] (1999145703) Ada: ✅ Sent Episode 11
+[2025-04-18T17:58:15.089Z] (1999145703) Ada: ✅ Sent Episode 12
+[2025-04-18T17:58:15.457Z] (1999145703) Ada: ✅ Sent Episode 13
+[2025-04-18T17:58:15.837Z] (1999145703) Ada: ✅ Sent Episode 14
+[2025-04-18T17:58:16.234Z] (1999145703) Ada: ✅ Sent Episode 15
+[2025-04-18T17:58:16.605Z] (1999145703) Ada: ✅ Sent Episode 16
+[2025-04-18T17:58:17.006Z] (1999145703) Ada: ✅ Sent Episode 17
+[2025-04-18T17:58:17.401Z] (1999145703) Ada: ✅ Sent Episode 18
+[2025-04-18T17:58:17.786Z] (1999145703) Ada: ✅ Sent Episode 19
+[2025-04-18T17:58:18.231Z] (1999145703) Ada: ✅ Sent Episode 20
+[2025-04-18T17:58:18.602Z] (1999145703) Ada: ✅ Sent Episode 22
+[2025-04-18T17:58:19.005Z] (1999145703) Ada: ✅ Sent Episode 23
+[2025-04-18T17:58:19.419Z] (1999145703) Ada: ✅ Sent Episode 24
+[2025-04-18T17:58:19.421Z] (1999145703) Ada: ✅ All Episode sent Successfully!

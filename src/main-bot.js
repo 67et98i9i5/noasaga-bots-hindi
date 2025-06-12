@@ -3,7 +3,7 @@ const axios = require('axios');
 const fs = require('fs'); 
 const path = require('path'); 
 require('dotenv').config();
-const bot = new Telegraf("7636762986:AAGUIkm7ASSOUqHs6CT_Dqy9IcdH0Mcppf8");
+const bot = new Telegraf("");
 const User = require("./user"); 
 const connectDB = require("./config"); // Import the connection function
 const ids = require("../data/ids.json");
